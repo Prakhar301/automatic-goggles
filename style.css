@@ -1,0 +1,16 @@
+#bod{
+    background-color: aqua;
+}
+.b{
+    background-color: red;
+    width:50%;  
+}
+#gh{
+    width:25%;
+}
+.d{
+    background-color:blueviolet;
+    margin-left: 25%;
+    width:50%;
+    height: 500px;
+}
